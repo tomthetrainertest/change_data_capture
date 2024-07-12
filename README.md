@@ -1,3 +1,12 @@
+# I almost get this one to work.
+
+data gen py fails with minio localhost connect.
+I connect to postgres and I do not see any data. 
+
+The containers seem to start just fine, might be able to work through it. 
+
+#
+
 
 * [Change Data Capture](#change-data-capture)
 * [Project Design](#project-design)
